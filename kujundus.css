@@ -1,8 +1,8 @@
 .Pais {
-    padding: 40px; /* some padding */
-    text-align: left; /* center the text */
-    background: #b85a91; /* green background */
-    color: white; /* white text color */
+    padding: 40px; 
+    text-align: left;
+    background: #b85a91; 
+    color: white; 
 }
 .Pais h1 {
     font-size: 40px;
@@ -21,29 +21,29 @@
 }
 
 .navbar {
-    overflow: hidden; /* Hide overflow */
-    background-color: rgb(88, 88, 88); /* Dark background color */
+    overflow: hidden; 
+    background-color: rgb(88, 88, 88); 
   }
   
-  /* Style the navigation bar links */
+ 
   .navbar a {
-    float: left; /* Make sure that the links stay side-by-side */
-    display: block; /* Change the display to block, for responsive reasons (see below) */
-    color: white; /* White text color */
-    text-align: center; /* Center the text */
-    padding: 14px 20px; /* Add some padding */
-    text-decoration: none; /* Remove underline */
+    float: left;
+    display: block; 
+    color: white; 
+    text-align: center; 
+    padding: 14px 20px; 
+    text-decoration: none; 
   }
   
-  /* Right-aligned link */
+  
   .navbar a.right {
-    float: right; /* Float a link to the right */
+    float: right; 
   }
   
-  /* Change color on hover/mouse-over */
+  
   .navbar a:hover {
     background-color: rgb(184, 144, 144); 
-    color: black; /* Black text color */
+    color: black; 
   }
 
 .fa {
@@ -78,15 +78,15 @@
 }
 
 .main2 {
-    flex: 50%; /* Set the width of the sidebar */
-    background-color: #d4b6b6; /* Grey background color */
-    padding: 20px; /* Some padding */
+    flex: 50%; 
+    background-color: #d4b6b6; 
+    padding: 20px;
 }
 
 .main {
-    flex: 50%; /* Set the width of the main content */
-    background-color: rgb(252, 212, 212); /* White background color */
-    padding: 20px; /* Some padding */
+    flex: 50%; 
+    background-color: rgb(252, 212, 212); 
+    padding: 20px;
 }
 
 * {box-sizing: border-box;}
